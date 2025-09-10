@@ -16,7 +16,6 @@
     <li>📝 TypeScript for type safety</li>
     <li>🎨 TailwindCSS + shadcn-ui for UI components</li>
     <li>☁️ Supabase integration for backend & auth</li>
-    <li>💻 Editable via Lovable’s AI developer environment</li>
   </ul>
 
   <h2>📂 Project Structure</h2>
